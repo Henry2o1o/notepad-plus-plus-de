@@ -1017,7 +1017,7 @@ Sie können mehrere Spaltenmarkierungen definieren, indem Sie Leerzeichen zur Tr
 (Nicht auswählen, wenn Sie nicht wissen, was Sie tun)"/>
                 </Delimiter>
 
-                <Cloud title="Cloud  Link">
+                <Cloud title="Cloud &amp; Link">
                     <Item id="6262" name="Cloud-Einstellungen"/>
                     <Item id="6263" name="Keine Cloud"/>
                     <Item id="6267" name="Hier den Pfad zum Cloud-Speicherort festlegen:"/>
