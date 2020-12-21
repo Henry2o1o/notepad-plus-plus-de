@@ -3,7 +3,7 @@
 <!--
 
     German localization for Notepad++
-    last modified: 2020-12-20 ... 
+    last modified: 2020-12-21
 
     Please e-mail errors, suggestions etc. to schnurlos(at)gmail.com or janschreiber(at)users.sf.net
 
@@ -799,10 +799,10 @@
                     <Item id="6104" name="Große Symbole"/>
                     <Item id="6105" name="Kleine Standard-Symbole"/>
 
-                    <Item id="6106" name="Leiste (Tabs)"/>
+                    <Item  id="6106" name="Leiste (Tabs)"/>
                     <Item id="6107" name="Reduzieren"/>
                     <Item id="6108" name="Gesperrt (kein Drag und Drop)"/>
-                    <Item id="6109" name="Inaktive Tab_s abdunkeln"/>
+                    <Item id="6109" name="Inaktive Tabs abdunkeln"/>
                     <Item id="6110" name="Aktiven Tab farbig hervorheben"/>
 
                     <Item id="6111" name="Statusleiste anzeigen"/>
@@ -834,9 +834,9 @@
                     <Item id="6229" name="Ausgerichtet"/>
                     <Item id="6230" name="Einrücken"/>
                     <Item id="6234" name="Erweiterten Bildlauffunktion aufgrund eines Touchpad-Problems deaktivieren"/>
-                    <Item id="6214" name="Hervorhebung der aktuellen Zeile aktivieren"/>
+                    <Item id="6214" name="Aktuelle Zeile hervorheben aktivieren"/>
                     <Item id="6215" name="Glatte Schrift aktivieren"/>
-                    <Item id="6236" name="Blättern über die letzte Zeile hinaus aktivieren"/>
+                    <Item id="6236" name="Über letzte Zeile hinaus blättern aktivieren"/>
                     <Item id="6239" name="Auswahl beibehalten, wenn Rechtsklick außerhalb der Auswahl"/>
                 </Scintillas>
 
@@ -944,7 +944,7 @@ Sie können mehrere Spaltenmarkierungen definieren, indem Sie Leerzeichen zur Tr
                     <Item id="6728" name="Kopf- und Fußzeile"/>
                 </Print>
 
-                <Searching title="Suche">
+                <Searching title="Suchen">
                     <Item id="6901" name="Gewähltes Wort nicht ins Suchfenster der Suche"/>
                     <Item id="6902" name="Festbreitenschrift im Dialogfeld 'Suchen' verwenden (Neustart von Notepad++ erforderlich)."/>
                     <Item id="6903" name="Der Suchdialog bleibt nach der Suche geöffnet, die im Ergebnisfenster ausgegeben wird"/>
@@ -1055,7 +1055,7 @@ Sie können mehrere Spaltenmarkierungen definieren, indem Sie Leerzeichen zur Tr
                     <Item id="6324" name="Dokumentenumschalter (Strg+Tab)"/>
                     <Item id="6331" name="Nur Dateinamen in Titelleiste anzeigen"/>
                     <Item id="6334" name="Kodierung automatisch erkennen"/>
-                    <Item id="6349" name="Verwende DirectWrite (kann die Darstellung von Sonderzeichen verbessern - Neustart von Notepad++ erforderlich)"/>
+                    <Item id="6349" name="DirectWrite verwenden (kann die Darstellung von Sonderzeichen verbessern - Notepad++ - Neustart erforderlich)"/>
                     <Item id="6337" name="Arbeitsbereich Dateierw.:"/>
                     <Item id="6114" name="Aktivieren"/>
                     <Item id="6117" name="MRU-Verhalten aktivieren"/>
