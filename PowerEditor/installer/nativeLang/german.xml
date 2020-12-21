@@ -3,7 +3,7 @@
 <!--
 
     German localization for Notepad++
-    last modified: 2020-12-21
+    last modified: 2020-10-24
 
     Please e-mail errors, suggestions etc. to schnurlos(at)gmail.com or janschreiber(at)users.sf.net
 
@@ -837,7 +837,7 @@
                     <Item id="6214" name="Aktuelle Zeile hervorheben aktivieren"/>
                     <Item id="6215" name="Glatte Schrift aktivieren"/>
                     <Item id="6236" name="Über letzte Zeile hinaus blättern aktivieren"/>
-                    <Item id="6239" name="Auswahl beibehalten, wenn Rechtsklick außerhalb der Auswahl"/>
+                    <Item id="6239" name="Auswahl bei Rechtsklick außerhalb der Auswahl beibehalten"/>
                 </Scintillas>
 
                 <MarginsBorderEdge title="Margins/Border/Edge">
