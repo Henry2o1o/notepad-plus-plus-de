@@ -951,7 +951,7 @@ Du kannst mehrere Spaltenmarkierungen definieren, indem du Leerzeichen zur Trenn
                     <Item id="6904" name="Bestätigung für 'Alle Ersetzen' in allen offenen Dokumenten"/>
                 </Searching>
 
-                <RecentFilesHistory title="Zuletzt geöffn. Dateien">
+                <RecentFilesHistory title="Zuletzt geöffnete Dateien">
                     <Item id="6304" name="Zuletzt geöffnete Dateien"/>
                     <Item id="6306" name="Max. Menüeinträge:"/>
                     <Item id="6305" name="Beim Programmstart nicht überprüfen"/>
