@@ -521,9 +521,9 @@
             </StyleConfig>
 
             <ShortcutMapper title="Tastenkombinationen">
-                <Item id="2602" name="Tk ändern"/>
+                <Item id="2602" name="TK ändern"/>
                 <Item id="2603" name="Alles löschen"/>
-                <Item id="2606" name="Tk entfernen"/>
+                <Item id="2606" name="TK entfernen"/>
                 <Item id="2607" name="Filter: "/>
                 <Item id="1" name="Schließen"/>
                 <ColumnName name="Tastenkombi-Name"/>
