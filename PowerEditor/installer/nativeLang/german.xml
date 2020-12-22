@@ -337,9 +337,9 @@
                     <Item id="48501" name="Generieren …"/>
                     <Item id="48502" name="Aus Dateien generieren …"/>
                     <Item id="48503" name="Aus Auswahl in Zwischenablage generieren"/>
-                    <Item id="48504" name="Erstellen …"/>
-                    <Item id="48505" name="Aus Dateien erstellen …"/>
-                    <Item id="48506" name="Aus Auswahl in die Zwischenablage erstellen"/>
+                    <Item id="48504" name="Generieren …"/>
+                    <Item id="48505" name="Aus Dateien generieren …"/>
+                    <Item id="48506" name="Aus Auswahl in die Zwischenablage generieren …"/>
                     <Item id="49000" name="Ausführen …"/>
 
                     <Item id="50000" name="Funktionserweiterung"/>
