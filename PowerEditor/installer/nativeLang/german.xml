@@ -491,9 +491,9 @@
 
             <StyleConfig title="Stil-Konfigurator">
                 <Item id="2"    name="Abbrechen"/>
-                <Item id="2301" name="Speichern  Schließen"/>
+                <Item id="2301" name="Speichern/Beenden"/>
                 <Item id="2303" name="Transparenz"/>
-                <Item id="2306" name="Thema auwählen: "/>
+                <Item id="2306" name="Thema auswählen"/>
                 <SubDialog>
                     <Item id="2204" name="Fett"/>
                     <Item id="2205" name="Kursiv"/>
